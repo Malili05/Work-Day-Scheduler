@@ -18,4 +18,4 @@ https://malili05.github.io/Work-Day-Scheduler/
 # License
  -See repo for License information
 # Screenshots
-![image](https://github.com/Malili05/Work-Day-Scheduler/assets/141981157/e6adde47-5c71-46f7-bf83-192b760adbcc)
+![image](https://github.com/Malili05/Work-Day-Scheduler/assets/141981157/16b007e6-56d0-495e-8485-56db4d50d447)
