@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-https://malili05.github.io/Password-Generator/
+https://malili05.github.io/Work-Day-Scheduler/
 
 # Description
 -offers color coded time slots relative to the current time of day
